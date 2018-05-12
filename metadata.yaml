@@ -1,5 +1,8 @@
 _repo: Prince-Zaleski_10709
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shiel, M. P. (Matthew Phipps)
@@ -13,6 +16,8 @@ description: Prince Zaleski / by Brian Stableford -- Note of the Zaleski stories
   by R.B. Russell -- Prince Zaleski / by M.P. Shiel [which includes] Race of Orven,
   Stone of the Edmundsbury monks, and S.S -- Return of Prince / by M.P. Shiel and
   John Gawsworth [which includes] Murena murder, Missing merchants, and Hargen inheritance.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10709#Prince-Zaleski
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
